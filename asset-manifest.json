@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iNotebook/static/css/main.95116b7d.chunk.css",
+    "main.js": "/iNotebook/static/js/main.0c0f1282.chunk.js",
+    "main.js.map": "/iNotebook/static/js/main.0c0f1282.chunk.js.map",
+    "runtime-main.js": "/iNotebook/static/js/runtime-main.035b5794.js",
+    "runtime-main.js.map": "/iNotebook/static/js/runtime-main.035b5794.js.map",
+    "static/css/2.f1d2f4ad.chunk.css": "/iNotebook/static/css/2.f1d2f4ad.chunk.css",
+    "static/js/2.5ed1a94a.chunk.js": "/iNotebook/static/js/2.5ed1a94a.chunk.js",
+    "static/js/2.5ed1a94a.chunk.js.map": "/iNotebook/static/js/2.5ed1a94a.chunk.js.map",
+    "index.html": "/iNotebook/index.html",
+    "static/css/2.f1d2f4ad.chunk.css.map": "/iNotebook/static/css/2.f1d2f4ad.chunk.css.map",
+    "static/css/main.95116b7d.chunk.css.map": "/iNotebook/static/css/main.95116b7d.chunk.css.map",
+    "static/js/2.5ed1a94a.chunk.js.LICENSE.txt": "/iNotebook/static/js/2.5ed1a94a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.035b5794.js",
+    "static/css/2.f1d2f4ad.chunk.css",
+    "static/js/2.5ed1a94a.chunk.js",
+    "static/css/main.95116b7d.chunk.css",
+    "static/js/main.0c0f1282.chunk.js"
+  ]
+}
