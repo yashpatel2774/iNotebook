@@ -1,0 +1,91 @@
+.about-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 60px 40px;
+  max-width: 1200px;
+  margin: auto;
+  gap: 3rem;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.about-left {
+  flex: 1 1 400px;
+  max-width: 500px;
+}
+
+.about-left h1 {
+  font-size: 2.8rem;
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+.about-left p {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.about-buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.primary-btn {
+  padding: 12px 24px;
+  background-color: #007bff;
+  color: white;
+  font-weight: 500;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.primary-btn:hover {
+  background-color: #0056b3;
+}
+
+.secondary-btn {
+  padding: 12px 24px;
+  background-color: transparent;
+  color: #007bff;
+  font-weight: 500;
+  border: 2px solid #007bff;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.secondary-btn:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+.about-right {
+  flex: 1 1 400px;
+  display: flex;
+  justify-content: center;
+}
+
+.note-card {
+  background-color: #f8f9fa;
+  border-left: 6px solid #007bff;
+  border-radius: 10px;
+  padding: 25px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+}
+
+.note-card h2 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.note-card p {
+  margin: 8px 0;
+  color: #555;
+  font-size: 1rem;
+}
