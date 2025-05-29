@@ -5,6 +5,9 @@
     }
   },
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+    {
+      "source": "/((?!.*\\.(js|css|png|jpg|jpeg|svg|json|ico|txt|map|woff|woff2|ttf|eot)).*)",
+      "destination": "/index.html"
+    }
   ]
 }
