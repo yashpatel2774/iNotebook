@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 <!-- <img src="/logo.png" alt="iNotebook Logo" height="30" />  -->
+<!-- // "homepage": "https://yashpatel2774.github.io/iNotebook", -->

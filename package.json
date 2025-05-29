@@ -1,5 +1,5 @@
 {
-  "homepage": "https://yashpatel2774.github.io/iNotebook",
+  "homepage": "https://i-notebook-dj812ev54-yashpatel2774s-projects.vercel.app",
   "name": "inotebook",
   "version": "0.1.0",
   "private": true,
@@ -7,6 +7,7 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^5.3.6",
     "concurrently": "^9.1.2",
     "cors": "^2.8.5",
     "gh-pages": "^6.3.0",
@@ -28,7 +29,7 @@
   },
   "engines": {
     "node": "18.x"
-},
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
