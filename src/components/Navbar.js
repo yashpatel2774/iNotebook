@@ -1,4 +1,5 @@
 import React from 'react'
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import { Link, useLocation, useNavigate} from 'react-router-dom'
 import Swal from 'sweetalert2'; 
 
@@ -23,7 +24,7 @@ const Navbar = () => {
     <div>
       <nav  className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
             <div className="container-fluid">
-                <Link className="navbar-brand" to="/"> <img src="/logo.png" alt="iNotebook Logo" height="30" />  iNotebook</Link>
+                <Link className="navbar-brand" to="/">  iNotebook</Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
