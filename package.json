@@ -27,7 +27,7 @@
     "both": "concurrently \"npm run start\" \"nodemon backend/index.js\""
   },
   "engines": {
-  "node": "18.x"
+    "node": "18.x"
 },
   "eslintConfig": {
     "extends": [
